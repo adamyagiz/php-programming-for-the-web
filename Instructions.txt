@@ -1,0 +1,49 @@
+Final Project
+
+You will create a PHP Web application that incorporates what you've learned 
+throughout the course. The application must do at least three of the 
+following:
+
+    registers users and allows them to log in
+    
+    dynamically generates pages based upon HTML templates
+    
+    uses cookies, sessions, and/or authentication
+    
+    involves image, Shockwave, or PDF creation
+    
+    handles file uploads
+    
+    logically incorporates regular expressions, user-defined functions, or 
+      include()
+    
+    uses object-oriented programming
+    
+    utilizes databases, directories, or files
+
+Possible, real-world applications are (you are not limited to any of the 
+following):
+
+    shopping cart
+    
+    message forum (similar to the discussion forums)
+    
+    online email system (send and receive using IMAP)
+    
+    search engine
+    
+    Whois check
+    
+    schedulable calendar
+    
+    PHP-based chat rooms
+
+HTML design quality will not be a factor in the project grade, but you must 
+demonstrate: solid programming skills; adequate documentation within the code; 
+efficiency; security; understanding of related technologies (databases, LDAP, 
+and so on); and long-range thinking (room for the site to grow and be easily 
+modified).
+
+Submit the URL and attached scripts to the drop box for Final Project. Be sure 
+to also post the URL to the Discussion Assignments forum as a reply to "Final 
+Project" thread.

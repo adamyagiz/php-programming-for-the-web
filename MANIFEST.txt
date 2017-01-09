@@ -1,0 +1,56 @@
+####################
+# 
+# Adam Yagiz - PHP Programming for the Web - Final
+# Date: February 28, 2012
+# This manifest lists all files and directories
+# Run the SQL to create the necessary database and 
+# fill it with some sample data
+# 
+####################
+
+### Directory structure ###
+  /
+  /css
+  /img/icons
+  /img/users
+  /includes
+  /js
+  /template
+
+### PHP Scripts ###
+  browse.php
+  editprofile.php
+  index.php
+  login.php
+  logout.php
+  mymatch.php
+  questionnaire.php
+  register.php
+  viewprofile.php
+
+  includes/appvars.php
+  includes/functions.php
+
+  template/footer.php
+  template/header.php
+  template/HTMLend.php
+  template/HTMLstart.php
+
+### CSS, images, Javascript ###
+  css/styles.css
+
+  img/matchr-logo35.png
+
+  img/icons/user.png
+
+  img/users/1_borat2.jpg
+  img/users/2_3_Idiots.jpg
+  img/users/3_georgetakei.jpg
+  img/users/4_Adam_Lambert.jpg
+  img/users/5_Ellen2.jpg
+  img/users/6_portia-de-rossi.jpg
+
+  js/modernizr-2.5.3.min.js
+
+### SQL ###
+  matchr_2012-03-01.sql
